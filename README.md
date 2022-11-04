@@ -1,2 +1,2 @@
-# CEP
-Consumindo e tratando dados de API, manipulando o DOM
+# js-consumindo-dados-api
+Repositório do treinamento "JavaScript: Consumindo e tratando dados de uma API" da Alura Cursos Online.
